@@ -9,3 +9,11 @@
 sacha505/sacha505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <!---
+
+ /\                 /\
+/ \'._   (\_/)   _.'/ \
+|.''._'--(o.o)--'_.''.|
+ \_ / `;=/ " \=;` \ _/
+   `\__| \___/ |__/`
+        \(_|_)/
+         " ` "
